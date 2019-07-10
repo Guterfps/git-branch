@@ -1,0 +1,23 @@
+{
+  "name": "git-branch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guterfps/git-branch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guterfps/git-branch/issues"
+  },
+  "homepage": "https://github.com/Guterfps/git-branch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
